@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href = "https://thumbs.dreamstime.com/z/japanese-banner-pastel-colors-vector-illustration-national-symbols-flat-style-presentation-poster-advertising-183257615.jpg" alt = "Banner">
+<img src = "https://thumbs.dreamstime.com/z/japanese-banner-pastel-colors-vector-illustration-national-symbols-flat-style-presentation-poster-advertising-183257615.jpg" alt = "Banner">
 ## 💻 Tech Stack
 
 <div align="center">

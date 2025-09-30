@@ -56,15 +56,15 @@
 
 ## 🎮 Contribution Pac-Man
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpdres/jpdres/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpdres/jpdres/output/pacman-contribution-graph.svg" />
-  <img alt="GitHub Contribution Pac-Man Animation" src="https://raw.githubusercontent.com/jpdres/jpdres/output/pacman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/pacman-contribution-graph.svg" />
+  <img alt="GitHub Contribution Pac-Man Animation" src="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/pacman-contribution-graph.svg" />
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
-<a href="https://github.com/jpdres">
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-jpdres-blue?style=for-the-badge" alt="Made with love" />
+<a href="https://github.com/Buchi-dev">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Buchi--dev-blue?style=for-the-badge" alt="Made with love" />
 </a>
 
 </div>

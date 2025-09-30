@@ -2,19 +2,7 @@
 
 <div align="center">
 
-<a href="Your-LinkedIn-URL">
-  <img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2](https://thumbs.dreamstime.com/z/japanese-banner-pastel-colors-vector-illustration-national-symbols-flat-style-presentation-poster-advertising-183257615.jpg)" alt="LinkedIn"/>
-</a>
-<a href="Your-Portfolio-URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Portfolio"/>
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome&fontSize=80&fontAlignY=35&animation=twinkling&desc=to%20Mars%&descAlignY=50" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;UI%2FUX+Designer;Problem+Solver;Creative+Innovator;Tech+Enthusiast" alt="Typing SVG" />
-
-<hr>
-
+<a href = "https://thumbs.dreamstime.com/z/japanese-banner-pastel-colors-vector-illustration-national-symbols-flat-style-presentation-poster-advertising-183257615.jpg" alt = "Banner">
 ## 💻 Tech Stack
 
 <div align="center">

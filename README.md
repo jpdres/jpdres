@@ -56,3 +56,14 @@
 </a>
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpdres/jpdres/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpdres/jpdres/output/pacman-contribution-graph.svg" />
+  <img alt="GitHub Contribution Pac-Man Animation" src="https://raw.githubusercontent.com/jpdres/jpdres/output/pacman-contribution-graph.svg" />
+</picture>
+
+<br/>
+
+<!-- Animated Snake GIF -->
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Animated Snake" width="300" />

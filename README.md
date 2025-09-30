@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="Your-LinkedIn-URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"/>
+  <img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2](https://thumbs.dreamstime.com/z/japanese-banner-pastel-colors-vector-illustration-national-symbols-flat-style-presentation-poster-advertising-183257615.jpg)" alt="LinkedIn"/>
 </a>
 <a href="Your-Portfolio-URL">
   <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Portfolio"/>
